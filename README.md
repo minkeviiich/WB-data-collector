@@ -1,4 +1,4 @@
-# Wildberries Data Collector
+# WB Data Collector
 
 Этот проект предназначен для сбора данных с сайта Wildberries и сохранения их в CSV файл.
 
@@ -14,7 +14,7 @@
     ```
 2. Перейдите в директорию проекта:
     ```
-    cd wildberries-data-collector
+    cd wb-data-collector
     ```
 3. Установите необходимые зависимости:
     ```
