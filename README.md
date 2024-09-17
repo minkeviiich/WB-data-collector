@@ -10,7 +10,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/minkeviiich/WB-Parser-Telegram-bot-.git
+    git clone https://github.com/minkeviiich/WB_data_collector.git
     ```
 2. Перейдите в директорию проекта:
     ```
